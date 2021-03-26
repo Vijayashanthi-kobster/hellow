@@ -1,5 +1,0 @@
-open ftp://www.kobza.in/karthik
-user arumugamsamy@kobzo.com 
-password Arumugasamy@123
-put viji.html
-bye
